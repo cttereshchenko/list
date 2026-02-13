@@ -905,3 +905,5 @@ nftset=/zendesk.com/4#inet#fw4#vpn_domains
 nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/wowtbc.gg/4#inet#fw4#vpn_domains
+nftset=/warcraftlogs.com/4#inet#fw4#vpn_domains
+nftset=/raidplan.io/4#inet#fw4#vpn_domains
